@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChamaActvity</string>
+    <string name="mensagem">Clique aqui!!!!</string>
+    <string name="actvity2">Entrei na Activity 2</string>
+</resources>
